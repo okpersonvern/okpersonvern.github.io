@@ -1,4 +1,3 @@
-# Her kjem det innhald
+# Lorem ipsum
 
-### Styrk personvernet ditt på nettet – 
-### lettfattelege rettleiingar
+### Test
